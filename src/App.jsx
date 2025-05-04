@@ -1,8 +1,8 @@
 import { useState } from "react";
 import CustomButton from "./shared/customButton";
-import Login from "./Login";
 import CustomInput from "./shared/CustomInput";
 import User from "./user";
+import Login from "./login";
 
 function App(){
 
