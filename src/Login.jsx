@@ -1,4 +1,4 @@
-import CustomButton from "./shared/customButton";
+import CustomButton from "./shared/CustomButton";
 import CustomInput from "./shared/CustomInput";
 function Login(props){
     return(
